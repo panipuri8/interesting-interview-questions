@@ -1,23 +1,4 @@
 #include<bits/stdc++.h>
- 
-typedef long long int ll;
-typedef unsigned long long int ull;
-typedef long double ld;
- 
-// #define fast ios::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL)
-#define enddl '\n'
-#define ff first
-#define ss second
-#define pb push_back
-#define mp make_pair
-#define pii pair<int,int>
-#define full(a) a.begin(),a.end()
-#define mem(a,x) memset(a,x,sizeof(a))
-#define PI 3.14159265
-
-const int MAXN = 1e5+5;
-
-const int MOD = 1e9+7;
 
 using namespace std;
 
